@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.03.20 23:25:46.146.pas,C:\Users\AndreasHiller.Net\Documents\RAD Studio\Projekte\Unit1.pas=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\main.pas</Transaction>
+    <Transaction>2017.03.20 23:25:46.146.dfm,C:\Users\AndreasHiller.Net\Documents\RAD Studio\Projekte\Unit1.dfm=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\main.dfm</Transaction>
+    <Transaction>2017.03.20 23:25:55.975.dproj,C:\Users\AndreasHiller.Net\Documents\RAD Studio\Projekte\Project1.dproj=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\killtelecort.dproj</Transaction>
+    <Transaction>2017.03.21 01:12:22.500.pas,C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\Unit1.pas=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\settings.pas</Transaction>
+    <Transaction>2017.03.21 01:12:22.500.dfm,C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\Unit1.dfm=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\settings.dfm</Transaction>
+    <Transaction>2017.03.21 06:31:26.383.pas,C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\Unit1.pas=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\info.pas</Transaction>
+    <Transaction>2017.03.21 06:31:26.383.dfm,C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\Unit1.dfm=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\info.dfm</Transaction>
+    <Transaction>2017.03.22 21:09:23.246.pas,C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\Unit1.pas=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\hilfe.pas</Transaction>
+    <Transaction>2017.03.22 21:09:23.246.dfm,C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\Unit1.dfm=C:\Users\AndreasHiller.Net\Dropbox\Delphi\KillTeleCort\hilfe.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
